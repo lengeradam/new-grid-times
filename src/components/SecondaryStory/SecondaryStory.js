@@ -21,6 +21,8 @@ const Wrapper = styled.article`
   gap: 4px 16px;
   grid-template-columns: 120px 1fr;
   color: var(--color-gray-900);
+  background-color: var(--color-gray-100);
+  padding: 16px 0;
 `;
 
 const Image = styled.img`
