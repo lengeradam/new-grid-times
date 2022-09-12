@@ -26,6 +26,7 @@ const Wrapper = styled.article`
 
   @media ${QUERIES.tabletOnly} {
     display: block;
+    background-color: revert;
   }
 `;
 
